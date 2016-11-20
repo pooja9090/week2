@@ -1,0 +1,9 @@
+/*below mentioned code makes the body background color green*/
+body{
+	background-color: #0ad5a7;
+}
+/*below mentioned code makes the background color yellow and the font color red with font family Georgia under serif font family*/
+h1{
+Background-color:Yellow;
+color:red;
+font-family: "Georgia", serif;
